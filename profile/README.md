@@ -1,6 +1,6 @@
 ## Optastack
 
-Manage everything from one single place.
+Manage multi-cloud resources from one single place.
 
 ### Links
 
