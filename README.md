@@ -1,3 +1,3 @@
 # .github
 
-Everything as one.
+All in one.
